@@ -107,6 +107,7 @@ public class LoginJava extends javax.swing.JFrame {
                    JOptionPane.showMessageDialog(null,"Acceso Correcto");
                }else{
                    JOptionPane.showMessageDialog(null,"Acceso Denegado");
+                   //comentario
                }
               
     }//GEN-LAST:event_jButton1ActionPerformed
